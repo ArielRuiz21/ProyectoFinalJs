@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Procesador Ryzen",
+        "price": 150000,
+        "image": "/img/ryzen.jpg"
+    },
+    {   
+        "id": 2,
+        "name": "Procesador Intel",
+        "price": 140000,
+        "image": "/img/intel.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Gabinete",
+        "price": 100000,
+        "image": "/img/gabinete.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mother Asus",
+        "price": 120000,
+        "image": "/img/mother asus.jpg"
+    },
+    {
+        "id": 5,
+        "name": "SSD 1TB",
+        "price": 80000,
+        "image": "/img/ssd.jpg"
+    }
+]
